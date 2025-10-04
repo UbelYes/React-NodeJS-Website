@@ -34,3 +34,34 @@ html{
     list-style: none;
     font-size: 16px;
 }
+
+.hero-description{
+    display: flex;
+    padding: 20px 120px;
+    justify-content: center;
+    
+}
+
+.hero-description img{
+    max-width: 100%;
+    max-height: 600px;
+    aspect-ratio: 1/1;
+    padding-left: 50px;
+}
+
+.hero-text{
+    max-width: 500px;
+}
+
+.hero-text h1 {
+    font-size: 50px;
+}
+
+.header-under{
+    font-size: 20px;
+}
+
+.waifu-cards h1{
+    padding: 0px 80px;
+    font-size: 45px;
+}
